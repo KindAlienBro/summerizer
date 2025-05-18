@@ -6,3 +6,4 @@ numpy
 pymupdf
 fpdf
 pydantic
+fpdf2
