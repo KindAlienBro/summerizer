@@ -1,6 +1,6 @@
-Python 3.8+
-FastAPI
-PyMuPDF
-Pandas
-NumPy
-Uvicorn
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+pymupdf
